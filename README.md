@@ -2,7 +2,7 @@
 
 I'm Camden, a CS student from Los Angeles, CA.
 
-I'm a CS student at UCLA. I'm a curious engineer who is passionate about building things and figuring out how they work.
+I'm a curious engineer who is passionate about building things and figuring out how they work.
 
 ## Projects
 | Name | What it does 📋|
