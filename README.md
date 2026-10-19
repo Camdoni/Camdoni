@@ -6,6 +6,7 @@ I'm a CS student at UCLA. I'm a curious engineer who is passionate about buildin
 
 ## Projects
 | Name | What it does 📋|
+| --- | --- |
 | [Doc Agent](https://github.com/Camdoni/doc_agent) | A local rag agent over your own notes. |
 | [Alien Wars](https://github.com/lgarciasanchez5450/AlienWars) | Alien ship shooter inspired by Galaga & Diep.io. |
 | [plantpulse](https://github.com/bradwco/plant-pulse) | Crop health / growth tracker HackMerced X winner |
